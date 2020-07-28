@@ -15,9 +15,9 @@ I'm a professional web developer and a casual open source contributor + maintain
 <hr>
 
 <p align="center">
-  <a href="https://im-in.space/@dubiousdisc" target="_blank" rel="noopener noreferrer"><img src="assets/mastodon-line.svg" alt="Mastodon"></a>
-  <a href="https://twitter.com/dar5hak" target="_blank" rel="noopener noreferrer"><img src="assets/twitter-line.svg" alt="Twitter"></a>
-  <a href="https://www.linkedin.com/in/darshak-parikh/" target="_blank" rel="noopener noreferrer"><img src="assets/linkedin-line.svg" alt="LinkedIn"></a>
+  <a href="https://im-in.space/@dubiousdisc" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/dar5hak/dar5hak/master/assets/mastodon-line.svg" alt="Mastodon"></a>
+  <a href="https://twitter.com/dar5hak" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/dar5hak/dar5hak/master/assets/twitter-line.svg" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/darshak-parikh/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/dar5hak/dar5hak/master/assets/linkedin-line.svg" alt="LinkedIn"></a>
 </p>
 
 <p align="center"><i>Icons by <a href="http://remixicon.com/">Remix Icon</a></i></p>
