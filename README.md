@@ -12,7 +12,7 @@ I'm a professional web developer and a casual open source contributor + maintain
 
 <img src="https://raw.githubusercontent.com/dar5hak/dar5hak/master/assets/book-3-line.svg" alt="books"> JK Rowling · Agatha Christie · Mark Manson · James Clear · Nir Eyal
 
-<img src="https://raw.githubusercontent.com/dar5hak/dar5hak/master/assets/music-line.svg" alt="music"> The Beatles · Led Zeppelin · Pink Floyd · Maroon 5 · Imagine Dragons
+<img src="https://raw.githubusercontent.com/dar5hak/dar5hak/master/assets/music-line.svg" alt="music"> Classic rock · Post rock · Maroon 5 · Imagine Dragons · LukHash
 
 <hr>
 
