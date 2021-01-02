@@ -1,4 +1,4 @@
-### Hi, I’m Darshak.
+# Hi, I’m Darshak.
 
 I’m a web developer at work and GTK developer at home. I write apps for elementary OS under [Elfenware](https://github.com/elfenware).
 
