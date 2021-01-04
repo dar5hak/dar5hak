@@ -1,6 +1,6 @@
 # Hi, I’m Darshak.
 
-I’m a web developer at work and GTK developer at home. I write apps for elementary OS under [Elfenware](https://github.com/elfenware).
+I’m a web developer at work and a GTK developer at home. I write apps for elementary OS under [Elfenware](https://github.com/elfenware).
 
 <img src="https://raw.githubusercontent.com/dar5hak/dar5hak/master/assets/code-line.svg" alt="programming languages"> HTML · CSS · JavaScript · Vala · Python
 
