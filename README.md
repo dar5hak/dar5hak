@@ -4,4 +4,6 @@
 
 💚 I like reading books, playing retro games and learning languages.
 
+👅 I speak fluent English, Hindi and Gujarati; and broken Spanish and Marathi.
+
 🔭 I’m currently mucking around with Elixir at [Exercism](https://exercism.org/profiles/dar5hak).
