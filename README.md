@@ -6,4 +6,4 @@
 
 👅 I speak fluent English, Hindi and Gujarati; and broken Spanish and Marathi.
 
-🔭 I’m currently mucking around with Elixir at [Exercism](https://exercism.org/profiles/dar5hak).
+🔭 I’m currently mucking around [WASM-4](https://wasm4.org/).
